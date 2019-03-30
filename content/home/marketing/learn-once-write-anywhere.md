@@ -1,5 +1,5 @@
 ---
-title: Learn Once, Write Anywhere
+title: Išmok kartą ir naudok betkur.
 order: 2
 ---
 
