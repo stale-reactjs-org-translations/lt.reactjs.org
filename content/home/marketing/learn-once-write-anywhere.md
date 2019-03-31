@@ -1,8 +1,8 @@
 ---
-title: Išmok kartą ir naudok betkur.
+title: Išmok kartą - naudok betkur.
 order: 2
 ---
 
-We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.
+React'ui nesvarbu esama kodo bazė - taigi naują kodą galite pradėti rašyti su React, neperrašant esamo.
 
-React can also render on the server using Node and power mobile apps using [React Native](https://facebook.github.io/react-native/).
+React taipogi gali būti naudojamas su Node, bei rašant mobilias aplikacijas su [React Native](https://facebook.github.io/react-native/).
