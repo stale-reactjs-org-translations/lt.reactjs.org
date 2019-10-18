@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting Started
+title: Pradžia
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
 redirect_from:
@@ -18,109 +18,109 @@ redirect_from:
   - "docs/environments.html"
 ---
 
-This page is an overview of the React documentation and related resources.
+Šiame puslapyje yra apžvelgiama React dokumentacija ir kiti susiję resursai.
 
-**React** is a JavaScript library for building user interfaces. Learn what React is all about on [our homepage](/) or [in the tutorial](/tutorial/tutorial.html).
+**React** yra JavaScript biblioteka naudotojo sąsajoms kurti. Sužinokite daugiau apie React [pradiniame puslapyje](/) arba [šiame gide](/tutorial/tutorial.html).
 
 ---
 
-- [Try React](#try-react)
-- [Learn React](#learn-react)
-- [Staying Informed](#staying-informed)
-- [Versioned Documentation](#versioned-documentation)
-- [Something Missing?](#something-missing)
+- [Išbandykite React](#try-react)
+- [Išmokite React](#learn-react)
+- [Likite informuoti](#staying-informed)
+- [Kitos dokumentacijos versijos](#versioned-documentation)
+- [Kažko trūksta ar radote klaidą?](#something-missing)
 
-## Try React {#try-react}
+## Išbandykite React {#try-react}
 
-React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+React nuo pat pradžių buvo sukurtas pritaikymui palaipsniui, todėl jis gali būti naudojamas **minimaliai arba pagal poreikį.** Norėdami išbandyti React, pridėti šiek tiek interaktyvumo paprastam HTML puslapiui, o galbūt sukurti sudėtingą React aplikaciją, žemiau esančios nuorodos padės tai padaryti.
 
-### Online Playgrounds {#online-playgrounds}
+### Kodo platformos internete {#online-playgrounds}
 
-If you're interested in playing around with React, you can use an online code playground. Try a Hello World template on [CodePen](codepen://hello-world), [CodeSandbox](https://codesandbox.io/s/new), or [Glitch](https://glitch.com/edit/#!/remix/starter-react-template).
+Jei norite tik išbandyti React, galite pasinaudoti paruoštomis kodo platformomis internete. Išbandykite Hello World šabloną [CodePen](codepen://hello-world), [CodeSandbox](https://codesandbox.io/s/new) arba [Glitch](https://glitch.com/edit/#!/remix/starter-react-template) platformoje.
 
-If you prefer to use your own text editor, you can also [download this HTML file](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html), edit it, and open it from the local filesystem in your browser. It does a slow runtime code transformation, so we'd only recommend using this for simple demos.
+Jei norite naudoti savo teksto redaktorių, taip pat galite [parsisiųsti šį HTML failą](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html), jį redaguoti ir tuomet atsidaryti failą savo naršyklėje. Šis būdas rekomenduojamas tik paprastiems pratimams ir pavyzdžiams, kadangi kodo transformacija tokiu būdu yra ganėtinai lėta.
 
-### Add React to a Website {#add-react-to-a-website}
+### Pridėkite React į tinklalapį {#add-react-to-a-website}
 
-You can [add React to an HTML page in one minute](/docs/add-react-to-a-website.html). You can then either gradually expand its presence, or keep it contained to a few dynamic widgets.
+Galite [pridėti React į HTML puslapį vos per vieną minutę](/docs/add-react-to-a-website.html). Tuomet galima palaipsniui jį išplėsti ir pritaikyti visame puslapyje arba palikti tik keliuose dinaminiuose valdikliuose.
 
-### Create a New React App {#create-a-new-react-app}
+### Sukurkite naują React aplikaciją {#create-a-new-react-app}
 
-When starting a React project, [a simple HTML page with script tags](/docs/add-react-to-a-website.html) might still be the best option. It only takes a minute to set up!
+Kuriant naują React projektą, paprastas [HTML puslapis su JavaScript kodo žymomis](/docs/add-react-to-a-website.html) gali būti geriausias būdas pradėti naudotis React biblioteka. Tai užtrunka vos minutę!
 
-As your application grows, you might want to consider a more integrated setup. There are [several JavaScript toolchains](/docs/create-a-new-react-app.html) we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem.
+Didėjant aplikacijai, verta pagalvoti apie labiau integruotą projekto konfigūraciją. Didesnėms aplikacijoms rekomenduojame [šiuos JavaScript įrankius](/docs/create-a-new-react-app.html). Kiekvienas iš jų veikia be jokios arba tik su minimalia konfigūracija. Tai suteikia galimybę iškart pradėti naudotis visais React bendruomenės privalumais.
 
-## Learn React {#learn-react}
+## Išmokite React {#learn-react}
 
-People come to React from different backgrounds and with different learning styles. Whether you prefer a more theoretical or a practical approach, we hope you'll find this section helpful.
+React naudoti pradeda įvairaus tipo žmonės, kurių kiekvienas turi skirtingą mokymosi stilių. Šis skyrius bus naudingas tiek teorinio, tiek ir praktinio mokymosi šalininkams.
 
-* If you prefer to **learn by doing**, start with our [practical tutorial](/tutorial/tutorial.html).
-* If you prefer to **learn concepts step by step**, start with our [guide to main concepts](/docs/hello-world.html).
+* Jei pirmenybę teikiate **praktiniam mokymuisi**, pradėkite [praktinį gidą](/tutorial/tutorial.html).
+* Jei pirmenybę teikiate **teoriniam mokymuisi**, susipažinkite su [pagrindiniais React bruožais](/docs/hello-world.html).
 
-Like any unfamiliar technology, React does have a learning curve. With practice and some patience, you *will* get the hang of it.
+Kaip ir kiekviena dar nepažinta technologija, React turi tam tikrą mokymosi barjerą, tačiau praktikos ir kantrybės dėka jį *pavyks* įveikti.
 
-### First Examples {#first-examples}
+### Pirmieji pavyzdžiai {#first-examples}
 
-The [React homepage](/) contains a few small React examples with a live editor. Even if you don't know anything about React yet, try changing their code and see how it affects the result.
+[Pradiniame puslapyje](/) rasite keletą paprastų React pavyzdžių su interaktyviu teksto redaktoriumi. Net jeigu dar nieko nežinote apie React, pabandykite pakeisti kodą ir stebėkite kaip tai paveikia rezultatą.
 
-### React for Beginners {#react-for-beginners}
+### React pradedantiesiems {#react-for-beginners}
 
-If you feel that the React documentation goes at a faster pace than you're comfortable with, check out [this overview of React by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/). It introduces the most important React concepts in a detailed, beginner-friendly way. Once you're done, give the documentation another try!
+Jeigu atrodo, kad React dokumentacijoje viskas aiškinama pernelyg greitai ar ne taip suprantamai kaip norėtųsi, perskaitykite šią [išsamią Tania Rascia React apžvalgą](https://www.taniarascia.com/getting-started-with-react/). Joje pradedantiesiems suprantamu būdu detaliai supažindinama su svarbiausiais React bruožais. Po šio straipsnio, pabandykite perskaityti dokumentaciją dar kartą!
 
-### React for Designers {#react-for-designers}
+### React dizaineriams {#react-for-designers}
 
-If you're coming from a design background, [these resources](https://reactfordesigners.com/) are a great place to get started.
+Jeigu turite daugiau dizainerio patirties, [šie resursai](https://reactfordesigners.com/) puikiai tiks pradėti.
 
-### JavaScript Resources {#javascript-resources}
+### JavaScript resursai {#javascript-resources}
 
-The React documentation assumes some familiarity with programming in the JavaScript language. You don't have to be an expert, but it's harder to learn both React and JavaScript at the same time.
+React dokumentacija reikalauja bent minimalių programavimo įgūdžių JavaScript programavimo kalba. Nereikia būti ekspertu, tačiau mokytis React kartu su JavaScript yra kur kas sudėtingiau.
 
-We recommend going through [this JavaScript overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) to check your knowledge level. It will take you between 30 minutes and an hour but you will feel more confident learning React.
+Rekomenduojame perskaityti šią [JavaScript apžvalgą](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript), kuri padės suprastumėti savo žinių lygį. Tai gali užtrukti nuo 30 min iki 1 valandos, tačiau jausitės kur kas užtikrinčiau mokantis React.
 
->Tip
+>Patarimas
 >
->Whenever you get confused by something in JavaScript, [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [javascript.info](https://javascript.info/) are great websites to check. There are also [community support forums](/community/support.html) where you can ask for help.
+>Kai kažko nesuprantate JavaScript programavimo kalboje, [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ir [javascript.info](https://javascript.info/) yra puikūs mokymosi šaltiniai, kuriuose galite rasti naudingos informacijos. Kartu egzistuoja ir [bendruomenės pagalbos forumai](/community/support.html), kuriuose taip pat galite paprašyti pagalbos.
 
-### Practical Tutorial {#practical-tutorial}
+### Praktinis gidas {#practical-tutorial}
 
-If you prefer to **learn by doing,** check out our [practical tutorial](/tutorial/tutorial.html). In this tutorial, we build a tic-tac-toe game in React. You might be tempted to skip it because you're not building games -- but give it a chance. The techniques you'll learn in the tutorial are fundamental to building *any* React apps, and mastering it will give you a much deeper understanding.
+Jeigu labiau mėgstate **praktinį mokymąsį,** peržiūrėkite mūsų [praktinį gidą](/tutorial/tutorial.html). Šiame gide React pagalba sukursime kryžiukų-nuliukų žaidimą. Nors galite ir nenorėti kurti paprasto žaidimo, tačiau rekomenduojame bent išbandyti šį pratimą. Jame naudojamos technikos sudaro pagrindą, kurį pritaikysite kuriant bent *kokią* React aplikaciją, o jį įvaldžius, įgausite kur kas gilesnį supratimą.
 
-### Step-by-Step Guide {#step-by-step-guide}
+### Teorinis gidas {#step-by-step-guide}
 
-If you prefer to **learn concepts step by step,** our [guide to main concepts](/docs/hello-world.html) is the best place to start. Every next chapter in it builds on the knowledge introduced in the previous chapters so you won't miss anything as you go along.
+Jeigu labiau mėgstate žingsnis po žingsnio **išmokti teorinį pagrindą,** mūsų [teorinis gidas](/docs/hello-world.html) yra puiki vieta pradėti. Kiekvienas naujas skyrius panaudoja įgytas žinias iš anksesnių skyrių, todėl mokydamiesi nieko nepraleisite.
 
-### Thinking in React {#thinking-in-react}
+### React mąstymas {#thinking-in-react}
 
-Many React users credit reading [Thinking in React](/docs/thinking-in-react.html) as the moment React finally "clicked" for them. It's probably the oldest React walkthrough but it's still just as relevant.
+Didelė dalis React naudotojų įvardija [React mąstymas](/docs/thinking-in-react.html) straipsnį kaip vieną iš resursų, kuris padėjo lengviau suvokti React. Tai yra vienas seniausių React resursų, tačiau jis išlieka aktualus ir šiandien.
 
-### Recommended Courses {#recommended-courses}
+### Rekomenduojami kursai {#recommended-courses}
 
-Sometimes people find third-party books and video courses more helpful than the official documentation. We maintain [a list of commonly recommended resources](/community/courses.html), some of which are free.
+Kai kuriems naudotojams trečiųjų šalių parašytos knygos ar video kursai padeda lengviau išmokti nei oficiali dokumentacija. Mes kuruojame [rekomenduojamų mokymosi resursų sąrašą](/community/courses.html), kuriame galima rasti ir nemokamų kursų.
 
-### Advanced Concepts {#advanced-concepts}
+### Teorija pažengusiems {#advanced-concepts}
 
-Once you're comfortable with the [main concepts](/docs/hello-world.html) and played with React a little bit, you might be interested in more advanced topics. This section will introduce you to the powerful, but less commonly used React features like [context](/docs/context.html) and [refs](/docs/refs-and-the-dom.html).
+Kai apsiprasite su [pagrindais](/docs/hello-world.html) ir būsite šiek tiek išbandę React, rekomenduojame perskaityti sudėtingesnes temas. Šiame skyriuje susipažinsite su galingomis, tačiau rečiau naudojamomis React savybėmis, pavyzdžiui  [kontekstu (context)](/docs/context.html) ar [nuorodomis (refs)](/docs/refs-and-the-dom.html).
 
-### API Reference {#api-reference}
+### API informacija {#api-reference}
 
-This documentation section is useful when you want to learn more details about a particular React API. For example, [`React.Component` API reference](/docs/react-component.html) can provide you with details on how `setState()` works, and what different lifecycle methods are useful for.
+Šį dokumentacijos dalis yra naudinga, jeigu norite sužinoti daugiau apie tam tikrą React API. Pavyzdžiui, [`React.Component` API informacijoje](/docs/react-component.html) galite rasti kaip veikia `setState()` arba kada yra naudingi skirtingi gyvavimo ciklų metodai.
 
-### Glossary and FAQ {#glossary-and-faq}
+### Žodynas ir DUK {#glossary-and-faq}
 
-The [glossary](/docs/glossary.html) contains an overview of the most common terms you'll see in the React documentation. There is also a FAQ section dedicated to short questions and answers about common topics, including [making AJAX requests](/docs/faq-ajax.html), [component state](/docs/faq-state.html), and [file structure](/docs/faq-structure.html).
+[Žodyne](/docs/glossary.html) galite rasti visas dažniausiai React dokumentacijoje vartojamas sąvokas. DUK skiltis yra skirta trumpiems klausimams ir atsakymams populiariausiomis temomis, pavyzdžiui, [AJAX užklausų siuntimui](/docs/faq-ajax.html), [komponentų būsenai (state)](/docs/faq-state.html), ar [failų struktūrai](/docs/faq-structure.html).
 
-## Staying Informed {#staying-informed}
+## Likite informuoti {#staying-informed}
 
-The [React blog](/blog/) is the official source for the updates from the React team. Anything important, including release notes or deprecation notices, will be posted there first.
+Oficialiame [React tinklaraštyje](/blog/) galite rasti naujausią informaciją, kurią skelbia React komanda. Svarbūs pranešimai, naujų versijų aprašymai ir kiti pokyčiai, pirmiausia bus paskelbiami šiame tinklaraštyje.
 
-You can also follow the [@reactjs account](https://twitter.com/reactjs) on Twitter, but you won't miss anything essential if you only read the blog.
+Taip pat galite sekti [@reactjs paskyrą](https://twitter.com/reactjs) socialiniame tinkle Twitter, tačiau nieko nepraleisite, jeigu nuspręsite skaityti tik tinklaraštį.
 
-Not every React release deserves its own blog post, but you can find a detailed changelog for every release [in the `CHANGELOG.md` file in the React repository](https://github.com/facebook/react/blob/master/CHANGELOG.md), as well as on the [Releases](https://github.com/facebook/react/releases) page.
+Ne visi React atnaujinimai yra verti straipsnio tinklaraštyje, tačiau detali informacija yra visada prieinama [`CHANGELOG.md` faile React repozitorijoje](https://github.com/facebook/react/blob/master/CHANGELOG.md) arba [Releases](https://github.com/facebook/react/releases) puslapyje.
 
-## Versioned Documentation {#versioned-documentation}
+## Kitos dokumentacijos versijos {#versioned-documentation}
 
-This documentation always reflects the latest stable version of React. Since React 16, you can find older versions of the documentation on a [separate page](/versions). Note that documentation for past versions is snapshotted at the time of the release, and isn't being continuously updated.
+Ši dokumentacija visada sutampa su naujausia stabilia React versija. Senesnes dokumentacijos versijas galite rasti [šiame puslapyje](/versions) nuo React 16 versijos išleidimo. Verta pastebėti, kad ankstesnės dokumentacijos versijos nėra atnaujinamos ir atspindi tik išleidimo metu aktualią informaciją.
 
-## Something Missing? {#something-missing}
+## Kažko trūksta ar radote klaidą? {#something-missing}
 
-If something is missing in the documentation or if you found some part confusing, please [file an issue for the documentation repository](https://github.com/reactjs/reactjs.org/issues/new) with your suggestions for improvement, or tweet at the [@reactjs account](https://twitter.com/reactjs). We love hearing from you!
+Jei dokumentacijoje kažko trūksta arba radote klaidą, sukurkite [problemos aprašymą dokumentacijos repozitorijoje](https://github.com/reactjs/reactjs.org/issues/new) su pasiūlymu kaip būtų galima ją patobulinti, arba tiesiogiai parašykite į [@reactjs Twitter paskyrą](https://twitter.com/reactjs). Mes laukiame visų žinučių!
