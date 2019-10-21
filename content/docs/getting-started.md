@@ -46,7 +46,11 @@ Galite [pridėti React į HTML puslapį vos per vieną minutę](/docs/add-react-
 
 ### Sukurkite naują React aplikaciją {#create-a-new-react-app}
 
+<<<<<<< HEAD
 Kuriant naują React projektą, paprastas [HTML puslapis su JavaScript kodo žymomis](/docs/add-react-to-a-website.html) gali būti geriausias būdas pradėti naudotis React biblioteka. Tai užtrunka vos minutę!
+=======
+When starting a React project, a [simple HTML page with script tags](/docs/add-react-to-a-website.html) might still be the best option. It only takes a minute to set up!
+>>>>>>> d2ade76cce133af47ab198188fa2de03fa51834b
 
 Didėjant aplikacijai, verta pagalvoti apie labiau integruotą projekto konfigūraciją. Didesnėms aplikacijoms rekomenduojame [šiuos JavaScript įrankius](/docs/create-a-new-react-app.html). Kiekvienas iš jų veikia be jokios arba tik su minimalia konfigūracija. Tai suteikia galimybę iškart pradėti naudotis visais React bendruomenės privalumais.
 
@@ -115,7 +119,11 @@ Oficialiame [React tinklaraštyje](/blog/) galite rasti naujausią informaciją,
 
 Taip pat galite sekti [@reactjs paskyrą](https://twitter.com/reactjs) socialiniame tinkle Twitter, tačiau nieko nepraleisite, jeigu nuspręsite skaityti tik tinklaraštį.
 
+<<<<<<< HEAD
 Ne visi React atnaujinimai yra verti straipsnio tinklaraštyje, tačiau detali informacija yra visada prieinama [`CHANGELOG.md` faile React repozitorijoje](https://github.com/facebook/react/blob/master/CHANGELOG.md) arba [Releases](https://github.com/facebook/react/releases) puslapyje.
+=======
+Not every React release deserves its own blog post, but you can find a detailed changelog for every release in the [`CHANGELOG.md` file in the React repository](https://github.com/facebook/react/blob/master/CHANGELOG.md), as well as on the [Releases](https://github.com/facebook/react/releases) page.
+>>>>>>> d2ade76cce133af47ab198188fa2de03fa51834b
 
 ## Kitos dokumentacijos versijos {#versioned-documentation}
 
