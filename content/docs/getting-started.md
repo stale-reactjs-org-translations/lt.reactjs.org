@@ -75,7 +75,7 @@ Jeigu turite daugiau dizainerio patirties, [šie resursai](https://reactfordesig
 
 React dokumentacija reikalauja bent minimalių programavimo įgūdžių JavaScript programavimo kalba. Nereikia būti ekspertu, tačiau mokytis React kartu su JavaScript yra kur kas sudėtingiau.
 
-Rekomenduojame perskaityti šią [JavaScript apžvalgą](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript), kuri padės suprastumėti savo žinių lygį. Tai gali užtrukti nuo 30 min iki 1 valandos, tačiau jausitės kur kas užtikrinčiau mokantis React.
+Rekomenduojame perskaityti šią [JavaScript apžvalgą](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript), kuri padės suprasti savo žinių lygį. Tai gali užtrukti nuo 30 min iki 1 valandos, tačiau jausitės kur kas užtikrinčiau mokantis React.
 
 >Patarimas
 >
