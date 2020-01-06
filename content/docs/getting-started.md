@@ -48,11 +48,7 @@ Galite [pridėti React į HTML puslapį vos per vieną minutę](/docs/add-react-
 
 Kuriant naują React projektą, paprastas [HTML puslapis su JavaScript kodo žymomis](/docs/add-react-to-a-website.html) gali būti geriausias būdas pradėti naudotis React biblioteka. Tai užtrunka vos minutę!
 
-<<<<<<< HEAD
-Didėjant aplikacijai, verta pagalvoti apie labiau integruotą projekto konfigūraciją. Didesnėms aplikacijoms rekomenduojame [šiuos JavaScript įrankius](/docs/create-a-new-react-app.html). Kiekvienas iš jų veikia be jokios arba tik su minimalia konfigūracija. Tai suteikia galimybę iškart pradėti naudotis visais React bendruomenės privalumais.
-=======
-As your application grows, you might want to consider a more integrated setup. There are several JavaScript toolchains we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem. [Learn how.](/docs/create-a-new-react-app.html)
->>>>>>> 071f5b0e1622465fb6fe5cf6c1cbd2aaef7c5ef4
+Didėjant aplikacijai, verta pagalvoti apie labiau integruotą projekto konfigūraciją. Didesnėms aplikacijoms rekomenduojame [šiuos JavaScript įrankius](/docs/create-a-new-react-app.html). Kiekvienas iš jų veikia be jokios arba tik su minimalia konfigūracija. Tai suteikia galimybę iškart pradėti naudotis visais React bendruomenės ir ekosistemos privalumais. [Sužinokite daugiau](/docs/create-a-new-react-app.html)
 
 ## Išmokite React {#learn-react}
 
