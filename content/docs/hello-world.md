@@ -40,7 +40,11 @@ React yra JavaScript biblioteka, todėl yra būtinas JavaScript programavimo kal
 
 >Pastaba
 >
+<<<<<<< HEAD
 >Šis gidas pateikiamuose pavyzdžiuose retkarčiais naudoja naujesnią JavaScript sintaksę. Jeigu per paskutiniuosius kelis metus neteko naudoti JavaScript programavimo kalbos, [šie trys punktai](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) turėtų padėti su tuo lengviau susidoroti.
+=======
+>This guide occasionally uses some newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>>>>>>> a88b1e1331126287ccf03f2f4ec25ec38513b911
 
 
 ## Pradėkime! {#lets-get-started}
