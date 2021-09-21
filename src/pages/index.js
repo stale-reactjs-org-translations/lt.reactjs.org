@@ -133,7 +133,7 @@ class Home extends Component {
                         fontSize: 30,
                       },
                     }}>
-                    A JavaScript library for building user interfaces
+                    JavaScript biblioteka, naudotojo sąsajų kūrimui
                   </p>
                   <Flex
                     valign="center"
@@ -151,12 +151,12 @@ class Home extends Component {
                       <ButtonLink
                         to="/docs/getting-started.html"
                         type="primary">
-                        Get Started
+                        Pradėti naudotis
                       </ButtonLink>
                     </CtaItem>
                     <CtaItem>
                       <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                        Take the Tutorial
+                        Į įžangą
                       </ButtonLink>
                     </CtaItem>
                   </Flex>
