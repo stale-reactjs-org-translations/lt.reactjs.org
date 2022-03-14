@@ -17,7 +17,7 @@ ReactDOM.render(
 
 Jis atvaizduoja „Labas, pasauli!“ antraštę puslapyje.
 
-[](codepen://hello-world)
+**[Try it on CodePen](https://codepen.io/gaearon/pen/rrpgNB?editors=1010)**
 
 Paspaudę viršuje esančią nuorodą, atidarysite internetinį teksto redaktorių. Nedvejokite ir pakeiskite kodą bei pažiūrėkite, kokį rezultatą išvysite ekrane. Dauguma puslapių šiame gide turi redaguojamus pavyzdžius.
 
@@ -40,7 +40,11 @@ React yra JavaScript biblioteka, todėl yra būtinas JavaScript programavimo kal
 
 >Pastaba
 >
+<<<<<<< HEAD
 >Šis gidas pateikiamuose pavyzdžiuose retkarčiais naudoja naujesnią JavaScript sintaksę. Jeigu per paskutiniuosius kelis metus neteko naudoti JavaScript programavimo kalbos, [šie trys punktai](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) turėtų padėti su tuo lengviau susidoroti.
+=======
+>This guide occasionally uses some newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>>>>>>> 7994045415a9066f8663ee5403e874edbb4c5f83
 
 
 ## Pradėkime! {#lets-get-started}
