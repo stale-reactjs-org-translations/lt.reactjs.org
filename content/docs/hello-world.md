@@ -8,16 +8,22 @@ next: introducing-jsx.html
 
 Paprasčiausias React pavyzdys:
 
+<<<<<<< HEAD
 ```js
 ReactDOM.render(
   <h1>Labas, pasauli!</h1>,
   document.getElementById('root')
 );
+=======
+```jsx
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<h1>Hello, world!</h1>);
+>>>>>>> d522a5f4a9faaf6fd314f4d15f1be65ca997760f
 ```
 
 Jis atvaizduoja „Labas, pasauli!“ antraštę puslapyje.
 
-[](codepen://hello-world)
+**[Try it on CodePen](https://codepen.io/gaearon/pen/rrpgNB?editors=1010)**
 
 Paspaudę viršuje esančią nuorodą, atidarysite internetinį teksto redaktorių. Nedvejokite ir pakeiskite kodą bei pažiūrėkite, kokį rezultatą išvysite ekrane. Dauguma puslapių šiame gide turi redaguojamus pavyzdžius.
 
@@ -40,7 +46,11 @@ React yra JavaScript biblioteka, todėl yra būtinas JavaScript programavimo kal
 
 >Pastaba
 >
+<<<<<<< HEAD
 >Šis gidas pateikiamuose pavyzdžiuose retkarčiais naudoja naujesnią JavaScript sintaksę. Jeigu per paskutiniuosius kelis metus neteko naudoti JavaScript programavimo kalbos, [šie trys punktai](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) turėtų padėti su tuo lengviau susidoroti.
+=======
+>This guide occasionally uses some newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>>>>>>> d522a5f4a9faaf6fd314f4d15f1be65ca997760f
 
 
 ## Pradėkime! {#lets-get-started}
