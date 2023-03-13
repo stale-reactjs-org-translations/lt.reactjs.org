@@ -18,7 +18,17 @@ redirect_from:
   - "docs/environments.html"
 ---
 
+<<<<<<< HEAD
 Šiame puslapyje yra apžvelgiama React dokumentacija ir kiti susiję resursai.
+=======
+> Try the new React documentation.
+> 
+> The new [Quick Start](https://beta.reactjs.org/learn) teaches modern React and includes live examples.
+>
+> The new docs will soon replace this site, which will be archived. [Provide feedback.](https://github.com/reactjs/reactjs.org/issues/3308)
+
+This page is an overview of the React documentation and related resources.
+>>>>>>> 19aa5b4852c3905757edb16dd62f7e7506231210
 
 **React** yra JavaScript biblioteka naudotojo sąsajoms kurti. Sužinokite daugiau apie React [pradiniame puslapyje](/) arba [šiame gide](/tutorial/tutorial.html).
 
@@ -36,9 +46,15 @@ React nuo pat pradžių buvo sukurtas pritaikymui palaipsniui, todėl jis gali b
 
 ### Kodo platformos internete {#online-playgrounds}
 
+<<<<<<< HEAD
 Jei norite tik išbandyti React, galite pasinaudoti paruoštomis kodo platformomis internete. Išbandykite Hello World šabloną [CodePen](codepen://hello-world), [CodeSandbox](https://codesandbox.io/s/new) arba [Glitch](https://glitch.com/edit/#!/remix/starter-react-template) platformoje.
 
 Jei norite naudoti savo teksto redaktorių, taip pat galite [parsisiųsti šį HTML failą](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html), jį redaguoti ir tuomet atsidaryti failą savo naršyklėje. Šis būdas rekomenduojamas tik paprastiems pratimams ir pavyzdžiams, kadangi kodo transformacija tokiu būdu yra ganėtinai lėta.
+=======
+If you're interested in playing around with React, you can use an online code playground. Try a Hello World template on [CodePen](codepen://hello-world), [CodeSandbox](https://codesandbox.io/s/new), or [Stackblitz](https://stackblitz.com/fork/react).
+
+If you prefer to use your own text editor, you can also [download this HTML file](https://raw.githubusercontent.com/reactjs/reactjs.org/main/static/html/single-file-example.html), edit it, and open it from the local filesystem in your browser. It does a slow runtime code transformation, so we'd only recommend using this for simple demos.
+>>>>>>> 19aa5b4852c3905757edb16dd62f7e7506231210
 
 ### Pridėkite React į tinklalapį {#add-react-to-a-website}
 
@@ -83,7 +99,11 @@ Rekomenduojame perskaityti šią [JavaScript apžvalgą](https://developer.mozil
 
 ### Praktinis gidas {#practical-tutorial}
 
+<<<<<<< HEAD
 Jeigu labiau mėgstate **praktinį mokymąsį,** peržiūrėkite mūsų [praktinį gidą](/tutorial/tutorial.html). Šiame gide React pagalba sukursime kryžiukų-nuliukų žaidimą. Nors galite ir nenorėti kurti paprasto žaidimo, tačiau rekomenduojame bent išbandyti šį pratimą. Jame naudojamos technikos sudaro pagrindą, kurį pritaikysite kuriant bent *kokią* React aplikaciją, o jį įvaldžius, įgausite kur kas gilesnį supratimą.
+=======
+If you prefer to **learn by doing,** check out our [practical tutorial](/tutorial/tutorial.html). In this tutorial, we build a tic-tac-toe game in React. You might be tempted to skip it because you're not into building games -- but give it a chance. The techniques you'll learn in the tutorial are fundamental to building *any* React apps, and mastering it will give you a much deeper understanding.
+>>>>>>> 19aa5b4852c3905757edb16dd62f7e7506231210
 
 ### Teorinis gidas {#step-by-step-guide}
 
@@ -115,7 +135,11 @@ Oficialiame [React tinklaraštyje](/blog/) galite rasti naujausią informaciją,
 
 Taip pat galite sekti [@reactjs paskyrą](https://twitter.com/reactjs) socialiniame tinkle Twitter, tačiau nieko nepraleisite, jeigu nuspręsite skaityti tik tinklaraštį.
 
+<<<<<<< HEAD
 Ne visi React atnaujinimai yra verti straipsnio tinklaraštyje, tačiau detali informacija yra visada prieinama [`CHANGELOG.md` faile React repozitorijoje](https://github.com/facebook/react/blob/master/CHANGELOG.md) arba [Releases](https://github.com/facebook/react/releases) puslapyje.
+=======
+Not every React release deserves its own blog post, but you can find a detailed changelog for every release in the [`CHANGELOG.md` file in the React repository](https://github.com/facebook/react/blob/main/CHANGELOG.md), as well as on the [Releases](https://github.com/facebook/react/releases) page.
+>>>>>>> 19aa5b4852c3905757edb16dd62f7e7506231210
 
 ## Kitos dokumentacijos versijos {#versioned-documentation}
 
